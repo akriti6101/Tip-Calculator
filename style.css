@@ -1,0 +1,93 @@
+.outer
+{
+    position:absolute;
+    top:70px;
+    left:440px;
+    height:500px;
+    border-radius: 32px;
+    border-width: 4px;
+    border-color: black;
+    box-shadow:4px 4px black;
+    
+    
+    width:400px;
+    background-color:#004d4d;
+}
+.Bill
+{position:absolute;
+    top:30px;
+    left:20px;
+    height:50px;
+    border-radius: 22px;
+    border-width: 2px;
+    width:400px;
+    
+
+}
+b{
+    color:white;
+    font-style: oblique;
+    font-size: 22px;
+
+}
+.tip{
+    position:absolute;
+    top:120px;
+    left:20px;
+    height:50px;
+    border-radius: 22px;
+    border-width: 2px;
+    width:400px;
+}
+.tip_am
+{  position:absolute;
+    top:210px;
+    left:20px;
+    height:50px;
+    border-radius: 22px;
+    border-width: 2px;
+    width:400px;
+
+}
+.t_a{position:absolute;
+    top:300px;
+    left:20px;
+    height:50px;
+    border-radius: 22px;
+    border-width: 2px;
+    width:400px;
+    
+
+}
+
+button{position:absolute;
+    top:390px;
+    left:160px;
+    height:40px;
+    border-radius: 22px;
+    border-width: 2px;
+    width:100px;
+    background-color: #916007;
+    color:black;
+    border-color: black;
+
+}
+input{
+    position:absolute;
+    font-weight: bold;
+    border-radius: 26px;
+    height:30px;
+    left:130px;
+    width:230px;
+    
+}
+hr{
+    position:absolute;
+    top:270px;
+    left:0px;
+    
+    border-radius: 10px;
+  border-width:2px;
+border-color: black;
+    width:395px;
+}
